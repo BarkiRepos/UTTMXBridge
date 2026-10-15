@@ -85,7 +85,7 @@
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value>=First(Fields!DocumentNoCaption_VendLedgEntry.Value) &amp; " / " &amp; First(Fields!ExternalDocumentNoCaption_VendLedgEntry.Value) &amp; " / " &amp; First(Fields!OnHoldCaption_VendLedgEntry.Value)</Value>
+                                  <Value>=First(Fields!DocumentNoCaption_VendLedgEntry.Value)</Value>
                                   <Style>
                                     <FontSize>7pt</FontSize>
                                     <FontWeight>Bold</FontWeight>
@@ -642,7 +642,7 @@
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value>=Fields!DocumentNo_VendLedgEntry.Value &amp; " / " &amp; Fields!ExternalDocumentNo_VendLedgEntry.Value &amp; " / " &amp; Fields!OnHold_VendLedgEntry.Value</Value>
+                                  <Value>=Fields!DocumentNo_VendLedgEntry.Value</Value>
                                   <Style>
                                     <FontSize>7pt</FontSize>
                                   </Style>

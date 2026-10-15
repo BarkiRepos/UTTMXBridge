@@ -2,7 +2,7 @@
   "id": "dc52ed08-2583-416f-a52a-17c609423573",
   "name": "UTTMXBridge",
   "publisher": "UTT",
-  "version": "18.5.25.09240948",
+  "version": "18.5.26.09111119",
   "brief": "",
   "description": "UTT MX BC DB Customizing ",
   "privacyStatement": "",
@@ -77,7 +77,7 @@
       "id": "b04a7a75-8e80-4e29-a78f-99b0be48bcb6",
       "name": "Kosmos Tek Electronic Accounting Core NA",
       "publisher": "Kosmos Tek Software ©",
-      "version": "1.0.3.0"
+      "version": "1.0.5.26"
     },
     {
       "id": "134b5b11-d50e-47e2-a159-5477bfbc6aed",
