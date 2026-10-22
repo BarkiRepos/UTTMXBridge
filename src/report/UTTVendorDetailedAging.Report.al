@@ -60,6 +60,12 @@ report 50091 "UTT Vendor Detailed Aging"
             column(DocumentNoCaption_VendLedgEntry; "Vendor Ledger Entry".FieldCaption("Document No."))
             {
             }
+            column(ExternalDocumentNoCaption_VendLedgEntry; "Vendor Ledger Entry".FieldCaption("External Document No."))
+            {
+            }
+            column(OnHoldCaption_VendLedgEntry; "Vendor Ledger Entry".FieldCaption("On Hold"))
+            {
+            }
             column(DescriptionCaption_VendLedgEntry; "Vendor Ledger Entry".FieldCaption(Description))
             {
             }
@@ -89,6 +95,12 @@ report 50091 "UTT Vendor Detailed Aging"
                 {
                 }
                 column(DocumentNo_VendLedgEntry; "Document No.")
+                {
+                }
+                column(ExternalDocumentNo_VendLedgEntry; "External Document No.")
+                {
+                }
+                column(OnHold_VendLedgEntry; "On Hold")
                 {
                 }
                 column(Description_VendLedgEntry; Description)
